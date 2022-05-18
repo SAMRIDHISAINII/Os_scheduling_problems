@@ -38,4 +38,5 @@ int main()
     
     printf("Total head movement is %d",TotalHeadMoment);
     return 0;
+    
 }
